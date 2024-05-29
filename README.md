@@ -1,6 +1,6 @@
 # Fabric ACB
 
-Blacklist autocompletion of certain commands on Fabric servers
+Blacklist autocompletion of certain commands on Fabric servers.
 
 ## License
 
